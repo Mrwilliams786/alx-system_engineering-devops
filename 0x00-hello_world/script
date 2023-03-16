@@ -1,0 +1,10 @@
+nano 1-compiler
+nano 2-assembler
+nano 3-name
+nano 4-puts.c
+nano 5-printf.c
+nano 6-size.c
+
+git add .
+git commit -m "Commit message"
+git push
